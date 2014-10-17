@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ruq:home|Door43 (ruq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ruq|d43-ruq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ruq/archive/master.zip|d43-ruq.zip]]
+
+**Recent Changes**
+{{changes>ns = ruq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ruq|Ethnologue data]]
+
